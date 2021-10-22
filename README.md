@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshpatel
+- 👋 Hi, I’m @harshpatel1242
 - 👀 I’m interested in DATASCIENCE/Python Development/ML/AI
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on ...
