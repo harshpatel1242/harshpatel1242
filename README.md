@@ -1,2 +1,1 @@
-ML Engineer/ Data Scientist
-
+At Bally's, Building and deploying ML models and Multi Agentic Systems using cutting edge technologies which includes AWS Sagemaker(MLOps, LLOps), Databricks, AgentCore ,N8N, building AWS Glue ETL pipelines to feeding ML models using AWS Glue and more.
